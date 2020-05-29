@@ -2,7 +2,11 @@
 
 ## Testando o projeto
 
-Abrir o código fonte e subir o Java, depois abrir o Postman:
+1- Abrir código fonte
+2- Subir o Java 
+3 - Abrir o Postman
+
+obs.: É necessário ter o MySQL instalado e o Maven e Java 8 configurados.
 
 ### Incluir Pagamento (POST):
 
